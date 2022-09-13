@@ -835,7 +835,7 @@ h6 {
     cursor: pointer;
     color: #fff;
     font-size: 14px;
-    border: 1px solid #3a3838;
+    border: 1px solid #b32edc;
 }
 
 .portfolio .list-filter li:before {
@@ -998,7 +998,7 @@ h6 {
     height: 45px;
     line-height: 45px;
     font-size: 22px;
-    border: 1px solid #dca52e;
+    border: 1px solid #b32edc;
     border-radius: 50%;
 }
 
@@ -1047,7 +1047,7 @@ h6 {
 
 .testimonials .owl-theme .owl-dots .owl-dot span {
 	background: transparent;
-    border: 1px solid #dca52e;
+    border: 1px solid #b32edc;
 	width: 8px;
 	height: 8px;
 	margin: 0 7px;
